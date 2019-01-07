@@ -15,7 +15,7 @@ At webbrowser (preferably Chrome, Firefox or Safari) is sufficient to view the d
 #### 1. View in Webbrowsser
  - You can simply use the .html file to view the data analysis 
 #### 2. View in Jupyter
- - Go to [Jupyter] https://jupyter.org/try
+ - Go to [Jupyter] (https://jupyter.org/try)
  - Select "Try Jupyter with python"
  - Once the default repo has been loaded, on the top left corner, select "File" -> "Open..."
  - A new window will open (binder/), on the top right corner, select "upload" and upload the Project_Movie_Data_Analysis.**ipynb** & tmdb-movies.**csv** files
