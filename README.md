@@ -9,10 +9,10 @@ Download the project folder on your local machine. There will be 4 files in the 
 - tmdb-movies.csv
 
 ### Prerequisites
-A webbrowser (preferably Chrome, Firefox or Safari) is sufficient to view the data analysis. However, to view the source code in its original environment you will need to have a notebook document which contains both computer code (python in this case) and rich text elements. I suggest using [Jupyter Notebook](https://jupyter.org/).
+A web browser (preferably Chrome, Firefox or Safari) is sufficient to view the data analysis. However, to view the source code in its original environment you will need to have a notebook document which contains both computer code (python in this case) and rich text elements. I suggest using [Jupyter Notebook](https://jupyter.org/).
 
 ### View Data Analysis
-#### 1. View in Webbrowsser
+#### 1. View in web browsser
  - You can simply use the .html file to view the data analysis 
 #### 2. View in Jupyter
  - Go to [Jupyter](https://jupyter.org/try)
