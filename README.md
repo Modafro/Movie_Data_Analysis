@@ -22,10 +22,10 @@ A web browser (preferably Chrome, Firefox or Safari) is sufficient to view the d
  - Once uploaded, click on the Project_Movie_Data_Analysis.ipynb, you will now be able to view and run the analysis in the Jupyter environment
  
 ## Built With
-[Jupyter Notebook](https://jupyter.org/)
-[Python](https://www.python.org/)
-[Pandas](https://pandas.pydata.org/)
-[NumPy](http://www.numpy.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [Python](https://www.python.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [NumPy](http://www.numpy.org/)
 ## Authors
 * **Mo Sagnia**
 
