@@ -23,7 +23,9 @@ A web browser (preferably Chrome, Firefox or Safari) is sufficient to view the d
  
 ## Built With
 [Jupyter Notebook](https://jupyter.org/)
-
+[Python](https://www.python.org/)
+[Pandas](https://pandas.pydata.org/)
+[NumPy](http://www.numpy.org/)
 ## Authors
 * **Mo Sagnia**
 
