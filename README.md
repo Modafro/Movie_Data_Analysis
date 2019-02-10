@@ -2,7 +2,7 @@
 This project will analyse various metrics for thousands of movies
 
 ## Getting Started
-Download the project folder on your local machine. There will be 4 files in the project folder (excluding the README file):
+Download/clone the repository on your local machine. There will be 4 files in the project folder (excluding the README file):
 - Project_Movie_Data_Analysis.html
 - Project_Movie_Data_Analysis.ipynb
 - Project_Movie_Data_Analysis.py
